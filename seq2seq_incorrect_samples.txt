@@ -1,0 +1,677 @@
+==========
+TEST INCORRECT SAMPLES (original - predict - real)
+==========
+Incorrect:  locals --- loc al --- local
+Incorrect:  anabaptists --- anabaptist --- ana bapt ist
+Incorrect:  demagnification --- demangic ion --- de magn ify ion
+Incorrect:  theatrically --- theatric ly --- theater ic al ly
+Incorrect:  alluvial --- alluvia al --- alluvial
+Incorrect:  toxins --- toxicn --- toxico in
+Incorrect:  butting --- but --- butt
+Incorrect:  faience --- faicena --- faience
+Incorrect:  conscientiousness --- conscience ious ness --- conscientious ness
+Incorrect:  limpets --- limp et --- limpet
+Incorrect:  protract --- pro tract ure --- pro tract
+Incorrect:  lawns --- law n --- lawn
+Incorrect:  resoluteness --- resolutene --- resolute ness
+Incorrect:  manlier --- manlier --- man ly er
+Incorrect:  chrysalis --- chryslain --- chrysalis
+Incorrect:  antipodes --- antipode --- antipodes
+Incorrect:  inconsistencies --- im co sist ancy --- im co sist ance y
+Incorrect:  absolutism --- absoluti ism --- absolute ism
+Incorrect:  papaw --- pap aw --- papaw
+Incorrect:  castorbeans --- castorbean --- castor bean
+Incorrect:  pharmacological --- pharma log ic al ly --- pharma log ic al
+Incorrect:  boasts --- boa st --- boast
+Incorrect:  shriven --- shriven --- shrive en
+Incorrect:  schubert --- schube er --- schubert
+Incorrect:  psychokinetically --- psycho lint ic ly --- psycho kine ic ly
+Incorrect:  insolvent --- insolvent --- im solve ant
+Incorrect:  relaid --- relaid --- re lay
+Incorrect:  subornation --- sub ornino ion --- suborn ion
+Incorrect:  harelipped --- hare lipp --- hare lip
+Incorrect:  chinese --- chine see --- china ese
+Incorrect:  baroque --- bar ious --- baroque
+Incorrect:  anniversary --- anni verse ory --- anniversary
+Incorrect:  habitually --- habit al ly --- habit al y
+Incorrect:  mayhem --- may hem --- mayhem
+Incorrect:  paginates --- pagenate --- page ate
+Incorrect:  pittsburgh --- pit butger --- pittsburgh
+Incorrect:  encephalitis --- en cephal ity --- en cephalo itis
+Incorrect:  lucratively --- lucrate ive ly --- lucre ive ly
+Incorrect:  doctrinaire --- doctrine ory --- doctrine aire
+Incorrect:  hindus --- hindus --- hindu
+Incorrect:  amphibious --- amphibious --- amphibio ious
+Incorrect:  sentient --- sentient --- sent ant
+Incorrect:  jammy --- jamy --- jam y
+Incorrect:  dynamism --- dynaminm --- dynamism
+Incorrect:  glummer --- glummer --- glum er
+Incorrect:  idiosyncrasies --- idio syn crass --- idio syn crasy
+Incorrect:  campaigners --- campaignes --- campaign er
+Incorrect:  backgammon --- back gam mon --- back gammon
+Incorrect:  vibrancy --- vibr ancy --- vibr ance y
+Incorrect:  seerey --- seer ey --- see rey
+Incorrect:  antiphonal --- anti phon al --- antiphonal
+Incorrect:  antediluvian --- ante dulic ian --- ante diluvian
+Incorrect:  birefringence --- bi rifgern --- bi refringence
+Incorrect:  thematic --- them ic --- theme ic
+Incorrect:  wardrobes --- wardrobe --- ward robe
+Incorrect:  mississippi --- missid ist ic --- mississippi
+Incorrect:  enroled --- en role --- enrol
+Incorrect:  superciliously --- super cilious ly --- super cili ious ly
+Incorrect:  hays --- hay --- hays
+Incorrect:  brontosaurus --- brontosaura --- bronto saur us
+Incorrect:  suborbital --- sub orbit able --- sub orbit al
+Incorrect:  prestige --- pre stige --- prestige
+Incorrect:  aforethought --- afor teoh ious --- afore thought
+Incorrect:  mesenteric --- mesenter ic --- mesenteric
+Incorrect:  pfennig --- pfenn --- pfennig
+Incorrect:  murkland --- murkland --- murk land
+Incorrect:  injuriously --- injure ious ly --- injure y ious ly
+Incorrect:  hollywood --- holly wood --- hollywood
+Incorrect:  girlie --- girly --- girl y
+Incorrect:  winsome --- win some --- winsome
+Incorrect:  funny --- funny --- fun y
+Incorrect:  crepes --- crepes --- crepe
+Incorrect:  trenchant --- trenchant --- trench ant
+Incorrect:  hungarian --- hungaria n --- hungary ian
+Incorrect:  pathless --- pat hless --- patho less
+Incorrect:  diplomacy --- diploma ic --- diploma acy
+Incorrect:  hawaiian --- haway ian --- hawaii ian
+Incorrect:  shouldst --- should est --- shouldst
+Incorrect:  nonflammable --- non flam able --- non flame able
+Incorrect:  weightiness --- weigh t ine --- weigh t y ness
+Incorrect:  magisterial --- magister ial --- magister al
+Incorrect:  foreseen --- fore sen --- fore see n
+Incorrect:  maddened --- mad men --- mad en
+Incorrect:  scribed --- scride --- script
+Incorrect:  goldberg --- gold er --- goldberg
+Incorrect:  photosensitive --- photo sense it ize --- photo sense ive
+Incorrect:  dude --- dud --- dude
+Incorrect:  delimitations --- de limit ion --- de limit ate ion
+Incorrect:  dormer --- dorm er --- dormer
+Incorrect:  prehensile --- prehensy an --- prehens ile
+Incorrect:  mucous --- muce ious --- mucous
+Incorrect:  treeless --- treel ess --- tree less
+Incorrect:  kaleidoscopic --- kaleido scope ic al --- kaleido scope ic
+Incorrect:  angostura --- angostar --- angostura
+Incorrect:  nonconformists --- non co from ist --- non co form ist
+Incorrect:  defter --- defter --- deft er
+Incorrect:  iowa --- ioowa --- iowa
+Incorrect:  avoirdupois --- avor id pous --- avoirdupois
+Incorrect:  inconvertible --- im convert able --- im co vert able
+Incorrect:  propagation --- propage ate ion --- propag ate ion
+Incorrect:  greenwood --- green wood --- greenwood
+Incorrect:  articling --- articling --- article
+Incorrect:  inclosed --- in clode --- im close
+Incorrect:  diurnal --- diurn al --- diurnal
+Incorrect:  kegham --- kegham --- keg ham
+Incorrect:  hoydenish --- hoydenish --- hoyden ish
+Incorrect:  coastguardsmen --- coast guard man --- coast guard men
+Incorrect:  protozoa --- proto zoa n --- proto zoa
+Incorrect:  eugenically --- eu gen ic al ly --- eu gen ic ly
+Incorrect:  sabring --- sabring --- sabre
+Incorrect:  krautheads --- krauthead --- kraut head
+Incorrect:  unprecedentedly --- un precedent al ly --- un precedent ly
+Incorrect:  sues --- sue --- su
+Incorrect:  effect --- ef fect --- e fect
+Incorrect:  fowlingpiece --- fowlingu ic --- fowl piece
+Incorrect:  peninsular --- peninsular --- peninsula ar
+Incorrect:  homemade --- home made --- home make
+Incorrect:  carbondale --- carbon ale --- carbondale
+Incorrect:  cunard --- cun ard --- cunard
+Incorrect:  swollenness --- swoll en ness --- swollen ness
+Incorrect:  interestedness --- inter est en --- interest ness
+Incorrect:  virility --- virility --- virile ity
+Incorrect:  drumbeat --- drumb eta --- drum beat
+Incorrect:  chestier --- chestier --- chest y er
+Incorrect:  runes --- rune --- run
+Incorrect:  apposition --- a pose it ion --- apposite ion
+Incorrect:  funnily --- funny ly --- fun y ly
+Incorrect:  goatee --- goat ee --- goatee
+Incorrect:  extramarital --- extra mart al --- extra marital
+Incorrect:  episodically --- epi doc ic al ly --- episode ic al ly
+Incorrect:  interpositions --- inter pose ion --- inter posit ion
+Incorrect:  cinderella --- cinder lela --- cinder ella
+Incorrect:  reappraisals --- re appraise lan --- re appraise al
+Incorrect:  retied --- retie --- re tie
+Incorrect:  contractually --- contract al ly --- contract al y
+Incorrect:  flatirons --- flaterion --- flat iron
+Incorrect:  blarney --- blance y --- blarney
+Incorrect:  tunisians --- tunis ian --- tunis ia n
+Incorrect:  wharves --- wharve --- wharf
+Incorrect:  boggs --- bog --- boggs
+Incorrect:  stripy --- strip y --- stripe y
+Incorrect:  detente --- detent --- detente
+Incorrect:  chrysalises --- chry salise --- chrysalis
+Incorrect:  don't --- don --- do
+Incorrect:  sanest --- sane ster --- sane est
+Incorrect:  tunisian --- tunis ian --- tunis ia n
+Incorrect:  hardwicke --- hard wick --- hardwicke
+Incorrect:  midsts --- mid st --- midst
+Incorrect:  tanker --- tanker --- tank er
+Incorrect:  divertingly --- divert ly --- di vert ly
+Incorrect:  delphiniums --- delp inumism --- delphinium
+Incorrect:  goobers --- goobe er --- goober
+Incorrect:  petits --- petit --- petits
+Incorrect:  skiver --- skiver --- skive er
+Incorrect:  sacramento --- sacro ment --- sacramento
+Incorrect:  aftertastes --- after state --- after taste
+Incorrect:  wagner --- wagn er --- wagner
+Incorrect:  gadgetry --- gadgerty --- gadget ory
+Incorrect:  reinvestigation --- re in vest ion --- re investigate ion
+Incorrect:  annals --- annal --- ann al
+Incorrect:  auditing --- audio in --- audio it
+Incorrect:  pasternak --- pasterna --- pasternak
+Incorrect:  gregg --- grigg --- gregg
+Incorrect:  mumford --- mum --- mumford
+Incorrect:  ottermole --- toter mole --- otter mole
+Incorrect:  odder --- odder --- odd er
+Incorrect:  outlawry --- out law ry --- out law ory
+Incorrect:  conductance --- conduct ance --- co duct ance
+Incorrect:  biodegradable --- biode grade able --- bio degrade able
+Incorrect:  spilt --- spilt --- spill t
+Incorrect:  stubblefields --- stubble y --- stubble field
+Incorrect:  flues --- flue --- flu
+Incorrect:  honduras --- hondur ia --- hondur as
+Incorrect:  samuels --- samuel --- samuels
+Incorrect:  expressionless --- ex press ion aes --- ex press ion less
+Incorrect:  petrie --- petry --- petrie
+Incorrect:  interdenominational --- inter demony ion al ist --- inter de nomin ate ion al
+Incorrect:  locket --- lock et --- locket
+Incorrect:  sealskin --- sealk sink --- seal skin
+Incorrect:  lichtenstein --- lichettinsent --- lichtenstein
+Incorrect:  romish --- romish --- rome ish
+Incorrect:  drumbeats --- drumb ate --- drum beat
+Incorrect:  quadruply --- quadr uply --- quadruple y
+Incorrect:  grippe --- grip --- grippe
+Incorrect:  curtis --- curti --- curtis
+Incorrect:  refinery --- refive or y --- refine ory
+Incorrect:  gallbladder --- galblladder --- gall bladder
+Incorrect:  impeded --- impede --- im ped
+Incorrect:  truer --- truer --- true er
+Incorrect:  methodically --- method ic ly --- method al ly
+Incorrect:  acoustics --- acoust ic --- acoust ics
+Incorrect:  mizzenmast --- mizzen maste --- mizzen mast
+Incorrect:  sexless --- sewlese --- sex less
+Incorrect:  paid --- paid --- pay
+Incorrect:  mangosteen --- mangoseten --- mangosteen
+Incorrect:  polyphony --- poly phon y --- poly phone y
+Incorrect:  fluent --- fluent --- flu ant
+Incorrect:  bellies --- bellie --- belly
+Incorrect:  mentally --- ment al ly --- mental ly
+Incorrect:  lacrosse --- lacross --- lacrosse
+Incorrect:  reasonableness --- re a nose able ness --- reason able ness
+Incorrect:  sadistic --- sadistic --- sadist ic
+Incorrect:  discomfited --- discomfite --- discomfit
+Incorrect:  grandniece --- grand neck --- grand niece
+Incorrect:  freebooters --- free booter --- free boot er
+Incorrect:  harcourt --- harcourt --- har court
+Incorrect:  transfuse --- trans fuse --- transfuse
+Incorrect:  dingdong --- dind gong --- ding dong
+Incorrect:  bullyboy --- bully housy --- bully boy
+Incorrect:  sugarloaves --- sugar lova --- sugar loaf
+Incorrect:  stoppable --- stop acle --- stop able
+Incorrect:  geddes --- ged er --- geddes
+Incorrect:  frontispiece --- frontis ipe y --- frontis piece
+Incorrect:  elliptically --- elliptic al ly --- elliptic ly
+Incorrect:  dyers --- dy er --- die er
+Incorrect:  contrariwise --- contra ory ize --- contra ory wise
+Incorrect:  insurance --- in surance --- in sure ance
+Incorrect:  handcuffing --- hand cuft --- hand cuff
+Incorrect:  brahmaputra --- brahmampat --- brahmaputra
+Incorrect:  beatnik --- bean tike --- beatnik
+Incorrect:  goodies --- goo die --- good y
+Incorrect:  chaos --- chao --- chaos
+Incorrect:  transatlantic --- transaltant ic --- trans atlantic
+Incorrect:  kleptomania --- klepto mania iac --- klepto mania
+Incorrect:  laredo --- lare do --- laredo
+Incorrect:  greasepaint --- grease pan ist --- grease paint
+Incorrect:  oratorical --- orate or al --- orate or ic al
+Incorrect:  crates --- crates --- crate
+Incorrect:  twanged --- twange --- twang
+Incorrect:  alchemists --- alchemist --- al chem ist
+Incorrect:  penumbra --- pen umbra --- penumbra
+Incorrect:  blumenthal --- blumenth al --- blumenthal
+Incorrect:  behemoths --- be hemoth --- behemoth
+Incorrect:  antepenultimate --- ante pencilate ion --- ante pen ultim ate
+Incorrect:  imbruing --- im bure --- imbrue
+Incorrect:  spidery --- spidery --- spider y
+Incorrect:  hippocratic --- hip porcit ac --- hippocrat ic
+Incorrect:  biotechnology --- biotech log y --- bio tech log y
+Incorrect:  vietnam --- viventam --- vietnam
+Incorrect:  treetops --- treet op --- tree top
+Incorrect:  countdown --- count wond --- count down
+Incorrect:  olde --- old --- olde
+Incorrect:  scholastica --- school astic a --- school astica
+Incorrect:  judson --- jud sono --- judson
+Incorrect:  bennington --- benning tone --- bennington
+Incorrect:  grimes --- grime --- grimes
+Incorrect:  prognostics --- pro gnose ic --- pro gnose tics
+Incorrect:  theatricals --- theatric al --- theater ic al
+Incorrect:  urinary --- urineray --- urine ory
+Incorrect:  intransigents --- in transig ant --- im transig ant
+Incorrect:  subparagraph --- sub pargar ly --- sub para graph
+Incorrect:  paschal --- pasche al --- paschal
+Incorrect:  drolly --- droll y --- droll ly
+Incorrect:  enunciations --- en unciate ion --- enunciate ion
+Incorrect:  kissers --- kisser --- kiss er
+Incorrect:  forensic --- forensic --- forens ic
+Incorrect:  pneumatically --- pneuma ic ly --- pneum ic ly
+Incorrect:  nautically --- nautic ly --- naut ic al ly
+Incorrect:  publick --- publick --- pube lick
+Incorrect:  keyless --- keyles --- key less
+Incorrect:  inappropriateness --- im a propri ate ment --- im a propri ate ness
+Incorrect:  hauteur --- hauteru --- hauteur
+Incorrect:  townships --- town stip --- town ship
+Incorrect:  surtaxing --- surtax --- sur tax
+Incorrect:  hosiery --- hose y y --- hosiery
+Incorrect:  icelandic --- icelandic --- iceland ic
+Incorrect:  testers --- tester --- test er
+Incorrect:  chairpersons --- chair prone --- chair person
+Incorrect:  gondolier --- gon dole y er --- gondol er
+Incorrect:  telecommunications --- teleco munic al ism --- tele communic ate ion
+Incorrect:  bodied --- body --- bodied
+Incorrect:  shillings --- shill --- shilling
+Incorrect:  hampshire --- hamp shire --- hampshire
+Incorrect:  pageantry --- pagenarty --- pageant ory
+Incorrect:  hums --- hum --- hume
+Incorrect:  collaborationists --- co labor ate ion ism --- co labor ate ion ist
+Incorrect:  danzig --- danze --- danzig
+Incorrect:  autoeroticism --- auto oryte ic --- auto eros ic ism
+Incorrect:  rawson --- raw sono --- rawson
+Incorrect:  dobbins --- dob in --- dobbins
+Incorrect:  bountiful --- bountiful --- bounty ful
+Incorrect:  ninepenny --- nine pen y ness --- nine penny
+Incorrect:  noninflammable --- non inflambina --- non in flame able
+Incorrect:  psychoactive --- psycho cate ic --- psycho act ive
+Incorrect:  robert --- roberts --- robert
+Incorrect:  genteelly --- genteel ly --- genteel y
+Incorrect:  antiquate --- antiquate --- antique ate
+Incorrect:  paroxysms --- paro yxsm --- paroxysm
+Incorrect:  ezra --- ezar --- ezra
+Incorrect:  megalomania --- megalo mania iac --- megalo mania
+Incorrect:  stanford --- stan ford --- stanford
+Incorrect:  claptrap --- claptrap --- clap trap
+Incorrect:  apoplexies --- apoplex ian --- apoplex y
+Incorrect:  incongruous --- incongru ious --- im congru ious
+Incorrect:  overaggressive --- over aggrest ion --- over aggress ive
+Incorrect:  facto --- fact o --- facto
+Incorrect:  johnnie --- johnnine --- johnnie
+Incorrect:  northampton --- north mapton --- northampton
+Incorrect:  helicopter --- helic poter --- helicopter
+Incorrect:  alongside --- along ide --- along side
+Incorrect:  nettlerash --- net lethar --- nettle rash
+Incorrect:  puttin --- puttin --- put tin
+Incorrect:  malaya --- malay a --- malaya
+Incorrect:  marilyn --- marily --- marilyn
+Incorrect:  prices --- prices --- price
+Incorrect:  mahout --- mahouth --- mahout
+Incorrect:  apocalyptic --- apocalyptic --- apocalypse ic
+Incorrect:  surveillance --- sur viel ance --- sur vey ance
+Incorrect:  myers --- my er --- myers
+Incorrect:  lobularity --- lobe al ory --- lobe ule ar ity
+Incorrect:  superciliousness --- super ci ious ness --- super cili ious ness
+Incorrect:  piquing --- piqu --- pique
+Incorrect:  mentholated --- mentholate --- menthol ate
+Incorrect:  pacification --- pacif ic ity --- pacif y ion
+Incorrect:  apostolically --- apostlic ly --- apostle ic ly
+Incorrect:  kandinsky --- kand ish ly --- kandinsky
+Incorrect:  dulcet --- duclet --- dulcet
+Incorrect:  existent --- existent --- exist ant
+Incorrect:  neocortex --- neo corte --- neo cortex
+Incorrect:  hattie --- hatite --- hattie
+Incorrect:  hostage --- hosteage --- hostage
+Incorrect:  anastomoses --- anastomos --- anastomoses
+Incorrect:  oxyacetylene --- oxoyach ety ly --- oxyacetylene
+Incorrect:  lacklustre --- lack sult er --- lack luster
+Incorrect:  unimpeachable --- un impech able --- un impeach able
+Incorrect:  dissertation --- disserattino --- dissertation
+Incorrect:  bronchi --- bronchi i --- bronchi
+Incorrect:  pneumatic --- pneuma ic --- pneum ic
+Incorrect:  withy --- with y --- withy
+Incorrect:  asking --- asking --- ask
+Incorrect:  bemaddening --- be maden --- be mad en
+Incorrect:  fibrin --- fibrin --- fiber in
+Incorrect:  bolshy --- bols hy --- bolshy
+Incorrect:  woburn --- woberund --- wo burn
+Incorrect:  waite --- waite --- wait
+Incorrect:  asher --- ash er --- asher
+Incorrect:  brookmont --- brook mont --- brookmont
+Incorrect:  behests --- be hest --- behest
+Incorrect:  juanita --- juane ate --- juanita
+Incorrect:  cannot --- cannot --- can not
+Incorrect:  awestricken --- awe strick --- awe stricken
+Incorrect:  bakelite --- bake lite --- bakelite
+Incorrect:  byres --- byres --- byre
+Incorrect:  former --- form er --- former
+Incorrect:  reservoirs --- reservo ir --- reservoir
+Incorrect:  aftertaste --- after state --- after taste
+Incorrect:  alias --- alia --- alias
+Incorrect:  lubberlanders --- lub lerd an ler --- lubber landers
+Incorrect:  skivers --- skiver --- skive er
+Incorrect:  chinaman --- chinaman --- china man
+Incorrect:  pathogenesis --- patho gen iss --- patho gen sis
+Incorrect:  drowsily --- drow sy ly --- drowse y ly
+Incorrect:  ultravehement --- ultra veem ness --- ultra vehem ant
+Incorrect:  crawford --- craw ford --- crawford
+Incorrect:  skyway --- sky way --- skyway
+Incorrect:  enos --- eno --- enos
+Incorrect:  tartaric --- tartaric --- tartar ic
+Incorrect:  coherency --- co here ancy --- co here ance y
+Incorrect:  jordan --- jor dan --- jordan
+Incorrect:  barstow --- bar stow --- barstow
+Incorrect:  southland --- south land --- southland
+Incorrect:  bilinear --- bilinear --- bi line ar
+Incorrect:  hayfields --- hay field --- hayfield
+Incorrect:  tarring --- tarr --- tar
+Incorrect:  viscid --- vis dic --- viscid
+Incorrect:  disastrous --- dis astrous --- disaster ous
+Incorrect:  mishitting --- mis hit --- mis hit ting
+Incorrect:  subatomic --- subatco ism --- sub atom ic
+Incorrect:  giorgio --- giorggio --- giorgio
+Incorrect:  noonday --- non day --- noon day
+Incorrect:  sponsorship --- sponsor ih --- sponsor ship
+Incorrect:  panicking --- panick --- panic
+Incorrect:  sempstresses --- semp stress --- sempstress
+Incorrect:  ultrasonic --- ultra son ic --- ultra sono ic
+Incorrect:  timesaving --- time saive --- time save
+Incorrect:  medicinal --- medicinal --- medicine al
+Incorrect:  whetted --- whett --- whet
+Incorrect:  manuscripts --- manuscript --- mani script
+Incorrect:  sachems --- sachem --- sac hem
+Incorrect:  amplitude --- amplitude --- ample itude
+Incorrect:  skied --- sky --- ski
+Incorrect:  revert --- revert --- re vert
+Incorrect:  chinning --- chin --- chinn
+Incorrect:  catarrh --- catarra --- catarrh
+Incorrect:  sundaes --- sun day --- sundae
+Incorrect:  singed --- sing --- singe
+Incorrect:  welfare --- welfare --- wel fare
+Incorrect:  ultrasonically --- ultra son ic al ly --- ultra sono ic ly
+Incorrect:  lizzie --- lizz y --- lizzie
+Incorrect:  inanimateness --- in anim ate ness --- im anim ate ness
+Incorrect:  accelerando --- a celer and --- a celer ando
+Incorrect:  nevada --- nev ada --- nevada
+Incorrect:  supercilious --- super clious --- super cili ious
+Incorrect:  germantown --- germantown --- german town
+Incorrect:  hiawatha --- hiagatha --- hiawatha
+Incorrect:  reynolds --- reyn lod --- reynolds
+Incorrect:  betake --- be take --- betake
+Incorrect:  burundi --- burnudin --- burundi
+Incorrect:  sextettes --- sexette --- sextette
+Incorrect:  manuscript --- man sucre it --- mani script
+Incorrect:  punitive --- pun ive ite --- pun ive
+Incorrect:  modalities --- modal ity --- mode al ity
+Incorrect:  interminable --- inter mint able --- im termin able
+Incorrect:  heretically --- heres ic ly --- heres ic al ly
+Incorrect:  pancreatic --- pancrete ic --- pancreatic
+Incorrect:  homozygous --- mooze gous --- homo zygo ious
+Incorrect:  countian --- countina --- count ian
+Incorrect:  exaggeratedly --- exaggeratello --- exaggerate ly
+Incorrect:  epidemiological --- epi demo log ic al --- epi demi log ic al
+Incorrect:  caudal --- caud al --- cauda al
+Incorrect:  toscanini --- toscanin --- toscanini
+Incorrect:  istanbul --- iston able --- istanbul
+Incorrect:  kentucky --- kent cumy --- kentucky
+Incorrect:  eleazar --- elea zar --- eleazar
+Incorrect:  impersonalized --- im person al ize --- in person al ize
+Incorrect:  ipso --- ip so --- ipso
+Incorrect:  poesy --- poese y --- poesy
+Incorrect:  tyburn --- tyburn --- ty burn
+Incorrect:  nestling --- nest --- nestle
+Incorrect:  eclectically --- eclectic al ly --- eclectic ly
+Incorrect:  soppy --- sopp y --- sop y
+Incorrect:  schwarzkopf --- schwark woid --- schwarzkopf
+Incorrect:  laundryman --- launder in may --- launder y man
+Incorrect:  implies --- implie --- imply
+Incorrect:  volkenstein --- volkent ize --- vol ken stein
+Incorrect:  yorkshire --- york shire --- yorkshire
+Incorrect:  fatboy --- fat ouy --- fat boy
+Incorrect:  semiweekly --- sime keep wy --- semi week ly
+Incorrect:  decoration --- decor ate ion --- decor ion
+Incorrect:  treasurer --- trease ure --- treasure er
+Incorrect:  derivative --- derive ive --- derive ate ive
+Incorrect:  todman --- todman --- tod man
+Incorrect:  cahill --- cahill --- ca hill
+Incorrect:  forsook --- fore sook --- forsook
+Incorrect:  malcolm --- mal colm --- malcolm
+Incorrect:  offprints --- off rint --- off print
+Incorrect:  freeport --- free port --- freeport
+Incorrect:  secretariat --- secretary --- secretariat
+Incorrect:  withheld --- withel --- with held
+Incorrect:  spoliation --- spoli ion --- spoil ion
+Incorrect:  lintels --- lint less --- lintel
+Incorrect:  terracotta --- terract or --- terracotta
+Incorrect:  entries --- entry --- enter y
+Incorrect:  ulceration --- ulcer ate ion --- ulcer ion
+Incorrect:  anabaptist --- anabaptist --- ana bapt ist
+Incorrect:  hydrofoil --- hydro fiol --- hydro foil
+Incorrect:  rudolph --- rudol phong --- rudolph
+Incorrect:  rime --- rim --- rime
+Incorrect:  stalinist --- stali in --- stalin ist
+Incorrect:  rosalie --- rose al y --- rosalie
+Incorrect:  pitt --- pitt --- pit
+Incorrect:  feasibly --- fease able y --- fact able y
+Incorrect:  gustation --- gustate ion --- gust ion
+Incorrect:  aqualungs --- aqual --- aqua lung
+Incorrect:  nichols --- nichol --- nichols
+Incorrect:  hillock --- hill oc --- hill ock
+Incorrect:  horseracing --- horser ace --- horse race
+Incorrect:  picnicker --- pictincker --- picnic er
+Incorrect:  utah --- ut ah --- utah
+Incorrect:  mavises --- mavise --- mavis
+Incorrect:  atavistic --- atave ist ic --- atavistic
+Incorrect:  agnosticism --- a gno ic ism --- a gnose ic ism
+Incorrect:  pungency --- pung en ic --- pungency
+Incorrect:  georgetown --- ge rog tent --- george town
+Incorrect:  juanita's --- juantia --- juanita
+Incorrect:  borne --- borne --- bore en
+Incorrect:  wendells --- wendell --- wen dell
+Incorrect:  goodbody --- goob dom y --- good body
+Incorrect:  prevaricated --- prevare arce --- prevaricate
+Incorrect:  intelligent --- intelligent --- intellig ant
+Incorrect:  disneyland --- dis neal --- disneyland
+Incorrect:  judy --- judy --- jud y
+Incorrect:  stragglier --- strag ly er --- straggle y er
+Incorrect:  ancestral --- ancestro al --- ancestor al
+Incorrect:  inkbottle --- in bittble --- ink bottle
+Incorrect:  ginghams --- ging ham --- gingham
+Incorrect:  brigadier --- brigadier --- brigade er
+Incorrect:  township --- town swip --- town ship
+Incorrect:  bunting --- bunt --- bunting
+Incorrect:  arduous --- arduo --- arduous
+Incorrect:  campaigner --- campaigner --- campaign er
+Incorrect:  gaieties --- gay iety --- gay ity
+Incorrect:  sanchez --- sanche --- sanchez
+Incorrect:  imps --- inp --- imp
+Incorrect:  circuitry --- circuiter y --- circuit ory
+Incorrect:  broadways --- broadway --- broad way
+Incorrect:  siegfried --- sieg fire --- siegfried
+Incorrect:  mosquitoes --- mosquitome --- mosquito
+Incorrect:  denier --- deny er --- denier
+Incorrect:  enmity --- enmitiy --- enmity
+Incorrect:  cotangent --- cotange ant --- co tang ant
+Incorrect:  roes --- roes --- roe
+Incorrect:  downstream --- down trema --- down stream
+Incorrect:  cicero --- cice ro --- cicero
+Incorrect:  grottoes --- grot oe --- grotto
+Incorrect:  pedantic --- pedantic --- pedant ic
+Incorrect:  abjectly --- ab eclth y --- abject ly
+Incorrect:  murphies --- murphy --- murphies
+Incorrect:  hemorrhoids --- hemorrohoid --- hema rrhoid
+Incorrect:  lapses --- lapsce --- lapse
+Incorrect:  goods --- good --- goods
+Incorrect:  citizenship --- citizen ly --- citizen ship
+Incorrect:  westerly --- wester ly --- west er ly
+Incorrect:  athletics --- athlete ic --- athlete ics
+Incorrect:  tallish --- tallish --- tall ish
+Incorrect:  nowise --- now ise --- no wise
+Incorrect:  fitzroy --- fit fox y --- fitzroy
+Incorrect:  predicator --- predic ate or --- pre dict ate or
+Incorrect:  hysterics --- hyster ics --- hyster ic
+Incorrect:  hippocrates --- hip porcate --- hippocrates
+Incorrect:  merrier --- merrier --- merry er
+Incorrect:  qataris --- qatar is --- qatar i
+Incorrect:  poop --- popo --- poop
+Incorrect:  grieved --- grive --- grieve
+Incorrect:  czechoslovakians --- czech slovan ifan --- czech slovak ia n
+Incorrect:  lintel --- lint le --- lintel
+Incorrect:  overtakin --- over take in --- over takin
+Incorrect:  socioeconomic --- socio colo ic ion --- socio econom ic
+Incorrect:  eisenhower --- eise hone worb --- eisenhower
+Incorrect:  surplus --- surplus --- sur plus
+Incorrect:  flannels --- flan less --- flannel
+Incorrect:  bribers --- briber --- bribe er
+Incorrect:  nonequivalence --- non equi val ant --- non equi val ance
+Incorrect:  animalcules --- animal cule --- animal ule
+Incorrect:  albs --- albs --- alb
+Incorrect:  clitorises --- clitory is --- clitoris
+Incorrect:  pupal --- pup al --- pup a al
+Incorrect:  epistemology --- epistemool ship --- epistem log y
+Incorrect:  quietuses --- quietusy --- quietus
+Incorrect:  mover --- mover --- move er
+Incorrect:  weevils --- weeve ild --- weevil
+Incorrect:  loonybins --- loon y ness --- loon y bin
+Incorrect:  roughshod --- rough soro --- rough shod
+Incorrect:  bales --- bales --- bale
+Incorrect:  ecclesiastics --- ecclesiast ic ant --- ecclesiast ic
+Incorrect:  brussels --- brussel --- brussels
+Incorrect:  patriotically --- pater ot ic al ly --- pater ot ic ly
+Incorrect:  undreamt --- undream t --- un dream t
+Incorrect:  icily --- icily --- ice y ly
+Incorrect:  stardom --- stardom --- star dom
+Incorrect:  interposition --- inter pose ion --- inter posit ion
+Incorrect:  urbanely --- urb an ly --- urbane ly
+Incorrect:  incredulity --- im cred al ity --- im credulity
+Incorrect:  gadget --- dagget --- gadget
+Incorrect:  tankard --- tandard --- tankard
+Incorrect:  antiredeposition --- antire depose ion --- anti re deposit ion
+Incorrect:  ophthalmoscopes --- ophthalmo schop --- ophthalmo scope
+Incorrect:  purloining --- purlonin --- purloin
+Incorrect:  montevideo --- monte vide --- monte video
+Incorrect:  hiroshima --- hiro shima --- hiroshima
+Incorrect:  palpations --- palp ate ion --- palp ion
+Incorrect:  volumetric --- volumetric --- volume etr ic
+Incorrect:  noncommittal --- non commit ate --- non commit al
+Incorrect:  impoliteness --- in polite ness --- im polite ness
+Incorrect:  knoxville --- tnx dovil --- knoxville
+Incorrect:  aspidistras --- aspidistrast --- aspidistra
+Incorrect:  fanned --- fann --- fan
+Incorrect:  buffoonery --- buffoon ery --- buffoon ory
+Incorrect:  deficiency --- defici ancy --- deficiency
+Incorrect:  addison --- add ion --- addison
+Incorrect:  waver --- wave er --- waver
+Incorrect:  scarface --- scarface --- scar face
+Incorrect:  barflies --- barflie --- bar fly
+Incorrect:  consensus --- consense --- consensus
+Incorrect:  rushall --- rushall --- rush all
+Incorrect:  sauerkraut --- sauer bark --- sauer kraut
+Incorrect:  gluttony --- gluttony --- glutton y
+Incorrect:  agricolas --- agri colas --- agricola
+Incorrect:  retinal --- retin al --- retina al
+Incorrect:  diabetes --- diabeta --- diabetes
+Incorrect:  albeit --- albetit --- albeit
+Incorrect:  consideration --- consider ate ion --- consider ion
+Incorrect:  rutherford --- ruther ford --- rutherford
+Incorrect:  asiatics --- asiatcis --- asiatic
+Incorrect:  sunnily --- sunn y ly --- sun y ly
+Incorrect:  umbilical --- umbiblic al --- umbilical
+Incorrect:  snelling --- snell --- snelling
+Incorrect:  probabilistic --- prob able ity ic --- prob able ist ic
+Incorrect:  rivalries --- rivalrie --- rivalry
+Incorrect:  volumetrically --- volum er ic ly --- volume etr ic al ly
+Incorrect:  poindexter --- poin detert --- poindexter
+Incorrect:  waylaying --- way lay n --- way lay
+Incorrect:  docility --- docility --- docile ity
+Incorrect:  firmest --- firmest --- firm est
+Incorrect:  wagering --- wager --- wage er
+Incorrect:  packard --- pack ard --- packard
+Incorrect:  combinations --- combine ate ion --- combine ion
+Incorrect:  anciently --- ancinel ity --- ancient ly
+Incorrect:  donnish --- donnish --- don ish
+Incorrect:  incisiveness --- incide ive ness --- in cise ive ness
+Incorrect:  jeans --- jean --- jeans
+Incorrect:  athabascan --- athabascan --- athabasca n
+Incorrect:  alkalis --- alkal ism --- alkal i
+Incorrect:  addressograph --- address goaph --- address graph
+Incorrect:  sesquipedalian --- sequipse al ize --- sesqui podo al ian
+Incorrect:  featherbrained --- feather ream --- feather brain
+Incorrect:  tonight's --- tonight --- to night
+Incorrect:  lagrange's --- lagrange --- lag range
+Incorrect:  arty --- arty --- art y
+Incorrect:  engulfs --- engulf --- en gulf
+Incorrect:  phenomenological --- phen mono log ic al --- phenomen log ic al
+Incorrect:  soignee --- soigene --- soignee
+Incorrect:  beebread --- beer bead --- bee bread
+Incorrect:  hendry --- hend y --- hendry
+Incorrect:  entry --- entry --- enter y
+Incorrect:  flatlet --- flatelt --- flat let
+Incorrect:  undue --- undue --- un due
+Incorrect:  ashtrays --- asthray --- ash tray
+Incorrect:  northrop --- north rop --- northrop
+Incorrect:  leash --- leahs --- leash
+Incorrect:  unseat --- un sea t --- un seat
+Incorrect:  tenderheartedness --- tender heart ment --- tender heart ness
+Incorrect:  researches --- re search ess --- re search
+Incorrect:  thraldom --- thrald mon --- thraldom
+Incorrect:  unacceptable --- un a cept able --- un accept able
+Incorrect:  sidings --- siding --- side
+Incorrect:  circumpolar --- circum ploar er --- circum pole ar
+Incorrect:  heterosexually --- hetero sex al ly --- hetero sex al y
+Incorrect:  reprisals --- reprisal --- reprise al
+Incorrect:  remade --- remade --- re make
+Incorrect:  halve --- half --- halve
+Incorrect:  mahouts --- mahouth --- mahout
+Incorrect:  arsenic --- arsenci --- arsenic
+Incorrect:  internationale --- inter nation al --- inter nation ale
+Incorrect:  microbiology --- microbe log y --- micro bio log y
+Incorrect:  esoterically --- esoteric al ly --- esoteric ly
+Incorrect:  insidiously --- indisious ly --- insidious ly
+Incorrect:  kittler --- kittle er --- kittler
+Incorrect:  sextette --- sexette --- sextette
+Incorrect:  wicker --- wick er --- wicker
+Incorrect:  greenwich --- green wick --- green wich
+Incorrect:  lobs --- lob --- lobe
+Incorrect:  melodiousness --- melod ious ness --- melod y ious ness
+Incorrect:  dextrose --- dextrose --- dexter ose
+Incorrect:  immunoelectrophoresis --- im muneol ety mont --- immun electro phoresis
+Incorrect:  presbyterianism --- presbytery ian --- presbytery ian ism
+Incorrect:  arclike --- arclike --- arc like
+Incorrect:  biddable --- biddable --- bid able
+Incorrect:  containment --- contain ment --- co tain ment
+Incorrect:  statutory --- statuorty --- statute ory
+Incorrect:  messianic --- messine ia --- messiah ic
+Incorrect:  byzantine --- by zantine --- byzantine
+Incorrect:  lightning --- light ning --- lightning
+Incorrect:  penumbras --- pen umbra --- penumbra
+Incorrect:  steadfast --- stead fast --- steadfast
+Incorrect:  vaudeville --- vaude ive ly --- vaudeville
+Incorrect:  antiquated --- antiquate --- antique ate
+Incorrect:  cardiogram --- cardio graph --- cardio gram
+Incorrect:  whichsoever --- whicho sever --- which so ever
+Incorrect:  rheumatoid --- rheumate ion --- rheuma oid
+Incorrect:  mucilage --- mucil age --- mucilage
+Incorrect:  hypothalamus --- hypo thalam ize --- hypo thalam us
+Incorrect:  interdependent --- inter depend ant --- inter de pend ant
+Incorrect:  booty --- boot y --- booty
+Incorrect:  venturesomeness --- venture ious ness --- venture some ness
+Incorrect:  vigorously --- vivor ious ly --- vigor ious ly
+Incorrect:  osteoporosis --- osteo poo is --- osteo pore sis
+Incorrect:  funguses --- fungus --- fung us
+Incorrect:  gondoliers --- gondol y er --- gondol er
+Incorrect:  verbosity --- verb or ity --- verb ose ity
+Incorrect:  bengalis --- bengalis --- bengal i
+Incorrect:  quantitatively --- quant ive  tylle --- quant ive ly
+Incorrect:  parolees --- parolee --- parole ee
+Incorrect:  thermoelectric --- therme lect or al --- thermo electr ic
+Incorrect:  krakow --- brakow --- krakow
+Incorrect:  scrawniest --- scrawn y est --- scrawny est
+Incorrect:  amalgamations --- amalgam ion --- amalgam ate ion
+Incorrect:  strongarm --- strong harm --- strong arm
+Incorrect:  herein --- herein --- here in
+Incorrect:  kuwaitis --- kuawiti --- kuwait i
+Incorrect:  faery --- faer y --- faery
+Incorrect:  systematical --- system ic ly --- system ic al
+Incorrect:  provisory --- provide ory --- pro vis ory
+Incorrect:  longwindedly --- long wide ly --- long wind ly

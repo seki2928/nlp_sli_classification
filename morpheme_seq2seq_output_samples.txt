@@ -1,0 +1,599 @@
+-
+Input sentence: frightening
+Decoded sentence: fright en
+
+Target sentence: 	fright en
+
+-
+Input sentence: prostrations
+Decoded sentence: prostrate ion
+
+Target sentence: 	prostrate ion
+
+-
+Input sentence: libertines
+Decoded sentence: liber ine
+
+Target sentence: 	liber ine
+
+-
+Input sentence: numbing
+Decoded sentence: numb
+
+Target sentence: 	numb
+
+-
+Input sentence: inflame
+Decoded sentence: in flame
+
+Target sentence: 	in flame
+
+-
+Input sentence: antenatal
+Decoded sentence: ante natal
+
+Target sentence: 	ante natal
+
+-
+Input sentence: illnesses
+Decoded sentence: ill ness
+
+Target sentence: 	ill ness
+
+-
+Input sentence: commentator
+Decoded sentence: comment ate or
+
+Target sentence: 	comment ate or
+
+-
+Input sentence: thirsts
+Decoded sentence: thirst
+
+Target sentence: 	thirst
+
+-
+Input sentence: fettle
+Decoded sentence: fettle
+
+Target sentence: 	fettle
+
+-
+Input sentence: hallucinatory
+Decoded sentence: hallucin ate ory
+
+Target sentence: 	hallucin ate ory
+
+-
+Input sentence: referendums
+Decoded sentence: referendum
+
+Target sentence: 	referendum
+
+-
+Input sentence: infiltrations
+Decoded sentence: in filter ate ion
+
+Target sentence: 	in filter ate ion
+
+-
+Input sentence: quitely
+Decoded sentence: quit ely
+
+Target sentence: 	quit ely
+
+-
+Input sentence: appreciably
+Decoded sentence: a preci able y
+
+Target sentence: 	a preci able y
+
+-
+Input sentence: stonewalled
+Decoded sentence: stone wall
+
+Target sentence: 	stone wall
+
+-
+Input sentence: spoons
+Decoded sentence: spoon
+
+Target sentence: 	spoon
+
+-
+Input sentence: elderberries
+Decoded sentence: elder berry
+
+Target sentence: 	elder berry
+
+-
+Input sentence: polka
+Decoded sentence: polka
+
+Target sentence: 	polka
+
+-
+Input sentence: disestablishing
+Decoded sentence: dis establish
+
+Target sentence: 	dis establish
+
+-
+Input sentence: muting
+Decoded sentence: mute
+
+Target sentence: 	mute
+
+-
+Input sentence: convinced
+Decoded sentence: convince
+
+Target sentence: 	convince
+
+-
+Input sentence: flagstaff
+Decoded sentence: flag staff
+
+Target sentence: 	flag staff
+
+-
+Input sentence: tearless
+Decoded sentence: tear less
+
+Target sentence: 	tear less
+
+-
+Input sentence: squaller
+Decoded sentence: squall er
+
+Target sentence: 	squall er
+
+-
+Input sentence: stable
+Decoded sentence: stable
+
+Target sentence: 	stable
+
+-
+Input sentence: assortment
+Decoded sentence: a sort ment
+
+Target sentence: 	a sort ment
+
+-
+Input sentence: recto
+Decoded sentence: rect
+
+Target sentence: 	rect
+
+-
+Input sentence: contextually
+Decoded sentence: co text al y
+
+Target sentence: 	co text al y
+
+-
+Input sentence: rubberizing
+Decoded sentence: rub er ize
+
+Target sentence: 	rub er ize
+
+-
+Input sentence: respect
+Decoded sentence: respect
+
+Target sentence: 	respect
+
+-
+Input sentence: letters
+Decoded sentence: letter
+
+Target sentence: 	letter
+
+-
+Input sentence: brooking
+Decoded sentence: brook
+
+Target sentence: 	brook
+
+-
+Input sentence: plaintive
+Decoded sentence: plaint ive
+
+Target sentence: 	plaint ive
+
+-
+Input sentence: bailiff
+Decoded sentence: bailiff
+
+Target sentence: 	bailiff
+
+-
+Input sentence: gigantic
+Decoded sentence: gigantic
+
+Target sentence: 	gigantic
+
+-
+Input sentence: showplace
+Decoded sentence: show place
+
+Target sentence: 	show place
+
+-
+Input sentence: skittles
+Decoded sentence: skittle
+
+Target sentence: 	skittle
+
+-
+Input sentence: syncopates
+Decoded sentence: syncopate
+
+Target sentence: 	syncopate
+
+-
+Input sentence: fluently
+Decoded sentence: flu ant ly
+
+Target sentence: 	flu ant ly
+
+-
+Input sentence: readiest
+Decoded sentence: ready est
+
+Target sentence: 	ready est
+
+-
+Input sentence: bantered
+Decoded sentence: banter
+
+Target sentence: 	banter
+
+-
+Input sentence: peri
+Decoded sentence: peri
+
+Target sentence: 	peri
+
+-
+Input sentence: pryingly
+Decoded sentence: pry ly
+
+Target sentence: 	pry ly
+
+-
+Input sentence: braiding
+Decoded sentence: braid
+
+Target sentence: 	braid
+
+-
+Input sentence: vulcanized
+Decoded sentence: vulcan ize
+
+Target sentence: 	vulcan ize
+
+-
+Input sentence: enfold
+Decoded sentence: en fold
+
+Target sentence: 	en fold
+
+-
+Input sentence: scribbles
+Decoded sentence: scribble
+
+Target sentence: 	scribble
+
+-
+Input sentence: shirtsleeve
+Decoded sentence: shirt sleeve
+
+Target sentence: 	shirt sleeve
+
+-
+Input sentence: beneficiary
+Decoded sentence: beneficiary
+
+Target sentence: 	beneficiary
+
+-
+Input sentence: resembling
+Decoded sentence: re semble
+
+Target sentence: 	re semble
+
+-
+Input sentence: skyjackings
+Decoded sentence: sky jack
+
+Target sentence: 	sky jack
+
+-
+Input sentence: hurdlers
+Decoded sentence: hurdle er
+
+Target sentence: 	hurdle er
+
+-
+Input sentence: besmears
+Decoded sentence: be smear
+
+Target sentence: 	be smear
+
+-
+Input sentence: bodyguards
+Decoded sentence: body guard
+
+Target sentence: 	body guard
+
+-
+Input sentence: gimlets
+Decoded sentence: gimlet
+
+Target sentence: 	gimlet
+
+-
+Input sentence: mann's
+Decoded sentence: mann
+
+Target sentence: 	mann
+
+-
+Input sentence: intercede
+Decoded sentence: inter cede
+
+Target sentence: 	inter cede
+
+-
+Input sentence: greatness
+Decoded sentence: great ness
+
+Target sentence: 	great ness
+
+-
+Input sentence: lodges
+Decoded sentence: lodge
+
+Target sentence: 	lodge
+
+-
+Input sentence: nippy
+Decoded sentence: nip y
+
+Target sentence: 	nip y
+
+-
+Input sentence: elasticities
+Decoded sentence: elastic ity
+
+Target sentence: 	elastic ity
+
+-
+Input sentence: curiae
+Decoded sentence: curiae
+
+Target sentence: 	curiae
+
+-
+Input sentence: taskmaster
+Decoded sentence: task master
+
+Target sentence: 	task master
+
+-
+Input sentence: christie
+Decoded sentence: christie
+
+Target sentence: 	christie
+
+-
+Input sentence: drills
+Decoded sentence: drill
+
+Target sentence: 	drill
+
+-
+Input sentence: enzymatic
+Decoded sentence: enzyme ic
+
+Target sentence: 	enzyme ic
+
+-
+Input sentence: cutthroats
+Decoded sentence: cut throat
+
+Target sentence: 	cut throat
+
+-
+Input sentence: slipshod
+Decoded sentence: slip shod
+
+Target sentence: 	slip shod
+
+-
+Input sentence: explosive
+Decoded sentence: ex plode ive
+
+Target sentence: 	ex plode ive
+
+-
+Input sentence: decomposes
+Decoded sentence: de co pose
+
+Target sentence: 	de co pose
+
+-
+Input sentence: discontenting
+Decoded sentence: dis content
+
+Target sentence: 	dis content
+
+-
+Input sentence: tenacity
+Decoded sentence: ten ity
+
+Target sentence: 	ten ity
+
+-
+Input sentence: thereto
+Decoded sentence: there to
+
+Target sentence: 	there to
+
+-
+Input sentence: prodigally
+Decoded sentence: prodig al ly
+
+Target sentence: 	prodig al ly
+
+-
+Input sentence: wades
+Decoded sentence: wade
+
+Target sentence: 	wade
+
+-
+Input sentence: diplomats
+Decoded sentence: diploma t
+
+Target sentence: 	diploma t
+
+-
+Input sentence: impropriety
+Decoded sentence: im propriety
+
+Target sentence: 	im propriety
+
+-
+Input sentence: decorative
+Decoded sentence: decor ate ive
+
+Target sentence: 	decor ate ive
+
+-
+Input sentence: frescoed
+Decoded sentence: fresco
+
+Target sentence: 	fresco
+
+-
+Input sentence: zinc
+Decoded sentence: zinc
+
+Target sentence: 	zinc
+
+-
+Input sentence: slightness
+Decoded sentence: slight ness
+
+Target sentence: 	slight ness
+
+-
+Input sentence: utopian
+Decoded sentence: u top ia n
+
+Target sentence: 	u top ia n
+
+-
+Input sentence: clairvoyant
+Decoded sentence: clairvoyant
+
+Target sentence: 	clairvoyant
+
+-
+Input sentence: recharges
+Decoded sentence: re charge
+
+Target sentence: 	re charge
+
+-
+Input sentence: nutriment
+Decoded sentence: nutri ment
+
+Target sentence: 	nutri ment
+
+-
+Input sentence: implanting
+Decoded sentence: in plant
+
+Target sentence: 	in plant
+
+-
+Input sentence: winch
+Decoded sentence: winch
+
+Target sentence: 	winch
+
+-
+Input sentence: dividend
+Decoded sentence: divide end
+
+Target sentence: 	divide end
+
+-
+Input sentence: busby
+Decoded sentence: busby
+
+Target sentence: 	busby
+
+-
+Input sentence: distillation
+Decoded sentence: distill ion
+
+Target sentence: 	distill ion
+
+-
+Input sentence: leg
+Decoded sentence: leg
+
+Target sentence: 	leg
+
+-
+Input sentence: place
+Decoded sentence: place
+
+Target sentence: 	place
+
+-
+Input sentence: prep
+Decoded sentence: prep
+
+Target sentence: 	prep
+
+-
+Input sentence: grenade
+Decoded sentence: grenade
+
+Target sentence: 	grenade
+
+-
+Input sentence: seemliness
+Decoded sentence: seemly ness
+
+Target sentence: 	seemly ness
+
+-
+Input sentence: boutflower
+Decoded sentence: bout flower
+
+Target sentence: 	bout flower
+
+-
+Input sentence: neutral
+Decoded sentence: neutr al
+
+Target sentence: 	neutr al
+
+-
+Input sentence: yeti
+Decoded sentence: yeti
+
+Target sentence: 	yeti
+
+-
+Input sentence: indecorum
+Decoded sentence: im decor ium
+
+Target sentence: 	im decor ium

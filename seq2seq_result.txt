@@ -1,0 +1,20 @@
+input token 31
+input length 22
+
+output token 29
+output length 27
+
+64 batch size
+256 dim
+40 epochs
+57255/57255 [==============================] - 70s 1ms/step - loss: 0.0045 - accuracy: 0.9987 - val_loss: 0.0425 - val_accuracy: 0.9910
+
+4162/5000 83.24% test accuracy
+
+
+64 batch size
+512 dim
+50 epochs
+57255/57255 [==============================] - 83s 1ms/step - loss: 0.0018 - accuracy: 0.9995 - val_loss: 0.0362 - val_accuracy: 0.9933
+
+4326/5000   Accuracy: 86.52
