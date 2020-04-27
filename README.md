@@ -1,7 +1,7 @@
 # SLI Classification Project
 ## Team Members
-Jack Runge (joru2460@colorado.edu)
-Joon Kim (seki2928@colorado.edu)
+Jack Runge (joru2460@colorado.edu)  
+Joon Kim (seki2928@colorado.edu)  
 Josh Daniels (joda4370@colorado.edu)
 ## Description
 This project is used to classify SLI in TalkBank corpus
