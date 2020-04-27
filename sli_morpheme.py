@@ -80,13 +80,17 @@ if DO_DELETE:
 tf.gfile.MakeDirs(OUTPUT_DIR)
 print('***** Model output directory: {} *****'.format(OUTPUT_DIR))
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=29)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=150, random_state=29)
+X_train, X_valid, y_train, y_valid = train_test_split(X_train, y_train, test_size=100, random_state=259)
 tr = {'dialogue':X_train, 'sli':y_train}
+va = {'dialogue':X_valid, 'sli':y_valid}
 te = {'dialogue':X_test, 'sli':y_test}
 train = pd.DataFrame(tr)
+valid = pd.DataFrame(va)
 test = pd.DataFrame(te)
 
 print(len(X_train), len(y_train))
+print(len(X_valid), len(y_valid))
 print(len(X_test), len(y_test))
 
 train.columns
@@ -98,6 +102,11 @@ label_list = [0, 1]
 
 # Use the InputExample class from BERT's run_classifier code to create examples from the data
 train_InputExamples = train.apply(lambda x: bert.run_classifier.InputExample(guid=None, # Globally unique ID for bookkeeping, unused in this example
+                                                                   text_a = x[DATA_COLUMN], 
+                                                                   text_b = None, 
+                                                                   label = x[LABEL_COLUMN]), axis = 1)
+
+valid_InputExamples = valid.apply(lambda x: bert.run_classifier.InputExample(guid=None,
                                                                    text_a = x[DATA_COLUMN], 
                                                                    text_b = None, 
                                                                    label = x[LABEL_COLUMN]), axis = 1)
@@ -132,6 +141,7 @@ tokenizer.tokenize("Test sample PAUSE1 this is right? PAUSE2 Okay. Pause3")
 MAX_SEQ_LENGTH = 512
 # Convert our train and test features to InputFeatures that BERT understands.
 train_features = bert.run_classifier.convert_examples_to_features(train_InputExamples, label_list, MAX_SEQ_LENGTH, tokenizer)
+valid_features = bert.run_classifier.convert_examples_to_features(valid_InputExamples, label_list, MAX_SEQ_LENGTH, tokenizer)
 test_features = bert.run_classifier.convert_examples_to_features(test_InputExamples, label_list, MAX_SEQ_LENGTH, tokenizer)
 
 def create_model(is_predicting, input_ids, input_mask, segment_ids, labels,
@@ -276,7 +286,7 @@ def model_fn_builder(num_labels, learning_rate, num_train_steps,
 # These hyperparameters are copied from this colab notebook (https://colab.sandbox.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb)
 BATCH_SIZE = 32
 LEARNING_RATE = 2e-5
-NUM_TRAIN_EPOCHS = 2
+NUM_TRAIN_EPOCHS = 6 
 # Warmup is a period of time where hte learning rate 
 # is small and gradually increases--usually helps training.
 WARMUP_PROPORTION = 0.1
@@ -317,17 +327,29 @@ current_time = datetime.now()
 estimator.train(input_fn=train_input_fn, max_steps=num_train_steps)
 print("Training took time ", datetime.now() - current_time)
 
+valid_input_fn = run_classifier.input_fn_builder(
+    features=valid_features,
+    seq_length=MAX_SEQ_LENGTH,
+    is_training=False,
+    drop_remainder=False)
+
+result = estimator.evaluate(input_fn=valid_input_fn, steps=None)
+
 test_input_fn = run_classifier.input_fn_builder(
     features=test_features,
     seq_length=MAX_SEQ_LENGTH,
     is_training=False,
     drop_remainder=False)
 
-result = estimator.evaluate(input_fn=test_input_fn, steps=None)
+result2 = estimator.evaluate(input_fn=test_input_fn, steps=None)
+
 print('BATCH_SIZE:', BATCH_SIZE)
 print('LEARNING_RATE:', LEARNING_RATE)
 print('NUM_TRAIN_EPOCHS:', NUM_TRAIN_EPOCHS)
+print('VALID RESULT')
 print(result)
+print('TEST RESULT')
+print(result2)
 
 def getPrediction(in_sentences):
   labels = ["TD", "SLI"]
